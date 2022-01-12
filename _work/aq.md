@@ -2,7 +2,7 @@
 title:            "AQ"
 date:             2014-07-01 14:00:00
 year:             2014
-color:            linear-gradient(to bottom,#33ccff 0%,#ff99cc 100%);
+color:            "#D8F2FF"
 class:            aq
 cover:            "/img/work/aq/aq-cover.svg"
 hyperlink:        http://www.aqworks.com
