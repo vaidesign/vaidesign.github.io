@@ -16,12 +16,18 @@ layout:           post
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_1.jpg" />
   </div>
+</div>
+<div>  
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_2.jpg" />
   </div>
+</div>
+<div>  
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_3.jpg" />
   </div>
+</div>
+<div>  
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_4.jpg" />
   </div>
