@@ -4,7 +4,7 @@ date:             2022-07-01 14:00:00
 year:             2022
 color:            "#D8F2FF"
 class:            trial
-cover:            "/img/work/trial/C3.svg"
+cover:            "/img/work/trial/C1.svg"
 hyperlink:        http://www.aqworks.com
 type:             "Web / Design & Front-End"
 description:      "A redesign of Tokyo's top design studio website"
