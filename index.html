@@ -6,11 +6,7 @@ title: Portfolio
 
 <div class="container">
   <div class="top-intro">
-    <img src='/img/work/aq/Coverartvideo_Final.gif'>
-    <!-- <video autoplay muted loop id="myVideo">
-  <source src='/img/work/aq/Coverartvideo.mp4' type="video/mp4">
-  Your browser does not support HTML5 video.
-  </video> -->
+    <img src='/img/landing.gif'>
   </div>
 
   <div class="work" style="position: relative">
@@ -20,7 +16,7 @@ title: Portfolio
         <div class="work-list-item grid-item {{ work.class }}">
           <a class="work-list-item-link" href="{{ work.url | relative_url }}"></a>
           <div class="work-list-item-media">
-            <div class="work-list-item-background" style="background-color: {{ work.color }};"></div>
+            <div class="work-list-item-background" style="background-image: {{ work.gradient }};"></div>
             <div class="work-list-item-media-inner">
               <img class="work-list-item-thumbnail lazyload" src="{{ work.cover | relative_url }}" />
             </div>
