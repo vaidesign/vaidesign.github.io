@@ -2,7 +2,7 @@
 title:            "Heineken"
 date:             2022-07-01 14:00:00
 year:             2022
-color:            "#D8F2FF"
+color:            "#C1CEB7"
 class:            heineken
 cover:            "/img/work/heineken/heineken_cover.svg"
 gradient:         "/img/work/heineken/heineken_gradient.jpg"

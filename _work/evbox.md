@@ -2,7 +2,7 @@
 title:            "EVBOX"
 date:             2022-07-01 14:00:00
 year:             2022
-color:            "#D8F2FF"
+color:            "#E9E9E9"
 class:            evbox
 cover:            "/img/work/evbox/evbox_cover.svg"
 gradient:         "/img/work/evbox/evbox_gradient.jpg"

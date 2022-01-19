@@ -2,7 +2,7 @@
 title:            "Damen Shipyards"
 date:             2022-07-01 14:00:00
 year:             2022
-color:            "#D8F2FF"
+color:            "#E9F0F6"
 class:            damenshipyards
 cover:            "/img/work/damenshipyards/damenshipyards_cover.svg"
 gradient:         "/img/work/damenshipyards/damenshipyards_gradient.jpg"

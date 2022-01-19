@@ -2,7 +2,7 @@
 title:            "TerminalManager"
 date:             2022-07-01 14:00:00
 year:             2022
-color:            "#D8F2FF"
+color:            "#EDE8EF"
 class:            terminalmanager
 cover:            "/img/work/terminalmanager/terminalmanager_cover.svg"
 gradient:         "/img/work/terminalmanager/terminalmanager_gradient.jpg"

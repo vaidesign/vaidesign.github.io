@@ -2,7 +2,7 @@
 title:            "JDE"
 date:             2022-07-01 14:00:00
 year:             2022
-color:            "#D8F2FF"
+color:            "#E2DBCC"
 class:            jde
 cover:            "/img/work/jde/jde_cover.svg"
 gradient:         "/img/work/jde/jde_gradient.jpg"

@@ -2,7 +2,7 @@
 title:            "Masterlink"
 date:             2022-07-01 14:00:00
 year:             2022
-color:            "#D8F2FF"
+color:            "#DEEFF9"
 class:            masterlink
 cover:            "/img/work/masterlink/masterlink_cover.svg"
 gradient:         "/img/work/masterlink/masterlink_gradient.jpg"
