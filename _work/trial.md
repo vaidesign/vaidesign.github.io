@@ -5,6 +5,7 @@ year:             2022
 color:            "#D8F2FF"
 class:            trial
 cover:            "/img/work/trial/C1.svg"
+gradient:         "/img/work/terminalmanager/terminalmanager_gradient.svg"
 hyperlink:        http://www.aqworks.com
 type:             "Web / Design & Front-End"
 description:      "A redesign of Tokyo's top design studio website"
