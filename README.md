@@ -1,2 +1,2 @@
-# ajitr2.github.io
+# vaishalirajurkar.github.io
 Personal Website
