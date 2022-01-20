@@ -3,7 +3,7 @@
 const filterButtons = document.querySelector("#filter-btns").children;
 const items = document.querySelector(".portfolio-gallery").children;
 const firstcategory = "3dmotion";
-for (let p = 0; p < items.length; k++) {
+for (let p = 0; p < items.length; kp++) {
     items[p].style.display = "none";
     if (firstcategory == items[p].getAttribute("data-id")) {
         items[p].style.display = "block";
