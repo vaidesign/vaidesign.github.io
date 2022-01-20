@@ -19,166 +19,28 @@
   <link rel="canonical" href="https://vaishalirajurkar.github.io/work/byd.html">
   <link rel="alternate" type="application/rss+xml" title="Vaishali Rajurkar" href="https://vaishalirajurkar.github.io/feed.xml" />
   <link rel="icon" type="image/png" href="/img/favicon.png" />
-
-  <style>
-    *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html,body{
-    width: 100%;
-    height: 100%;
-}
-
-body{
-    font-family: sans-serif;
-    font-size: 18px;
-    background: #999;
-}
-
-ul{
-    list-style: none;
-}
-
-img{
-    max-width: 100%;
-    height: auto;
-}
-
-.xcontainer{
-    max-width: 1200px;
-    margin: auto;
-    padding: 15px;
-    text-align: center;
-}
-
-h2{
-    font-weight: normal;
-    font-size: 120%;
-    margin-bottom: 20px;
-    color: #fff;
-}
-
-.filter-menu{
-    margin-bottom: 20px;
-}
-.filter-menu li{
-    display: inline-block;
-    padding: 10px 18px;
-/*     background: #eb4d4b; */
-    color: #fff;
-    cursor: pointer;
-}
-.filter-menu li:hover,
-.filter-menu li.current{
-color: #febd01;
-    border-bottom: 2px solid #febd01;
-}
-
-
-
-.filter-item li{
-    width: 50%;
-    padding: 2px;
-    float: left;
-}
-
-.filter-item li.active{
-    width: 50%;
-    padding: 2px;
-    transition: all 0.5s ease;
-}
-
-.filter-item li.delete{
-    width: 0%;
-    padding: 0;
-    transition: all 0.5s ease;
-}
-
-.filter-item img{
-    display: block;
-    width: 100%;
-    height: 100%;
-}
-
-@media screen and (min-width: 768px){
-    .filter-item li.active,
-    .filter-item li{
-        width: 33.33%;
-    }
-
-    h2{
-        font-size: 190%;
-    }
-}
-@media screen and (min-width: 1280px){
-    .filter-item li.active,
-    .filter-item li{
-        width: 25%;
-    }
-
-    h2{
-        font-size: 270%;
-    }
-}
-
-
-
-    </style>
-
-  <script type="text/javascript">
-    let sortBtn = document.querySelector('.filter-menu').children;
-let sortItem = document.querySelector('.filter-item').children;
-
-for(let i = 0; i < sortBtn.length; i++){
-  sortBtn[i].addEventListener('click', function(){
-      for(let j = 0; j< sortBtn.length; j++){
-          sortBtn[j].classList.remove('current');
-      }
-
-      this.classList.add('current');
-
-
-      let targetData = this.getAttribute('data-target');
-
-      for(let k = 0; k < sortItem.length; k++){
-          sortItem[k].classList.remove('active');
-          sortItem[k].classList.add('delete');
-
-          if(sortItem[k].getAttribute('data-item') == targetData || targetData == "all"){
-              sortItem[k].classList.remove('delete');
-              sortItem[k].classList.add('active');
-          }
-      }
-  });
-}
-      </script>
 </head>
 
 
   <body>
 
-            <div class="xcontainer">
-  <h2>Playground images</h2>
+    <div id="barba-wrapper">
+      <div class="barba-container">
+        <div class="site-background" style="background-color: #E3E8F2;" data-transition="fadein"></div>
+<header class="site-header" data-transition="slideup">
+  <div class="container container-flex align-top">
+    <div class="side-title ts-strong" style="position:relative;">
+      <a href="/">
+        <img src='https://raw.githubusercontent.com/vaishalirajurkar/vaishalirajurkar.github.io/main/img/work/aq/logo.svg'>
+      </a>
+    </div>
+  </div>
+</header>
 
-  <ul class="filter-menu">
+        <main data-transition="slidedown">
+          <div class="post">
 
-      <li class="current" data-target="male">Male</li>
-      <li data-target="female">Female</li>
-      <li data-target="kid">Kid</li>
-  </ul>
 
-  <ul class="filter-item">
-      <li data-item="male"><img src="/img/playground/1.jpg" alt=""></li>
-      <li data-item="male"><img src="/img/playground/2.jpg" alt=""></li>
-      <li data-item="female"><img src="/img/playground/3.jpg" alt=""></li>
-    <li data-item="female"><img src="/img/playground/4.jpg" alt=""></li>
-      <li data-item="kid"><img src="/img/playground/5.jpg" alt=""></li>
-      <li data-item="kid"><img src="/img/playground/6.jpg" alt=""></li>
-  </ul>
-</div>
 
 
 
@@ -206,6 +68,11 @@ for(let i = 0; i < sortBtn.length; i++){
 
   </div>
 
+</div>
+
+        </main>
+      </div>
+    </div>
 
   </body>
 
