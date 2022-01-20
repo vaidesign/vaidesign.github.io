@@ -4,9 +4,9 @@ const filterButtons = document.querySelector("#filter-btns").children;
 const items = document.querySelector(".portfolio-gallery").children;
 const firstcategory = "3dmotion";
 for (let p = 0; p < items.length; k++) {
-    items[k].style.display = "none";
-    if (firstcategory == items[k].getAttribute("data-id")) {
-        items[k].style.display = "block";
+    items[p].style.display = "none";
+    if (firstcategory == items[p].getAttribute("data-id")) {
+        items[p].style.display = "block";
     }
 }
 
