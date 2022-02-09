@@ -1,11 +1,10 @@
 ---
-title:            "Trial"
-date:             2022-07-01 14:00:00
-year:             2022
+title:            "AQx"
+date:             2014-07-01 14:00:00
+year:             2014
 color:            "#D8F2FF"
-class:            trial
-cover:            "/img/work/byd/byd_cover.svg"
-gradient:         "/img/work/byd/byd_gradient.jpg"
+class:            aq
+cover:            "/img/work/aq/aq-cover.svg"
 hyperlink:        http://www.aqworks.com
 type:             "Web / Design & Front-End"
 description:      "A redesign of Tokyo's top design studio website"
@@ -14,22 +13,10 @@ layout:           post
 ---
 
 <div class="post-content-grid">
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_1.jpg" />
+  <div class="post-content-column column-2">
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/aq/aq-research-desktop.png" />
   </div>
-</div>
-<div>  
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_2.jpg" />
-  </div>
-</div>
-<div>  
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_3.jpg" />
-  </div>
-</div>
-<div>  
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_4.jpg" />
+  <div class="post-content-column column-3">
+    <img class="post-content-screen iphone" src="{{ site.baseurl }}/img/work/aq/aq-work-mobile.png" />
   </div>
 </div>
