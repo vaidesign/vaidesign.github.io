@@ -1,10 +1,10 @@
 ---
-title:            "bydtrial"
+title:            "BYD"
 date:             2014-07-01 14:00:00
 year:             2014
 color:            "#D8F2FF"
-class:            bydtrial
-cover:            "/img/work/aq/aq-cover.svg"
+class:            byd
+cover:            "/img/work/byd/byd_cover.svg"
 gradient:         "/img/work/byd/byd_gradient.jpg"
 type:             "Web / Design & Front-End"
 description:      "A redesign of Tokyo's top design studio website"
