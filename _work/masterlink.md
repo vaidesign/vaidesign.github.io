@@ -1,8 +1,8 @@
 ---
 title:            "Masterlink"
-date:             2022-07-01 14:00:00
-year:             2022
-color:            "#DEEFF9"
+date:             2014-07-01 14:00:00
+year:             2014
+color:            "#D8F2FF"
 class:            masterlink
 cover:            "/img/work/masterlink/masterlink_cover.svg"
 gradient:         "/img/work/masterlink/masterlink_gradient.jpg"
@@ -13,22 +13,10 @@ layout:           post
 ---
 
 <div class="post-content-grid">
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_1.jpg" />
+  <div class="post-content-column column-2">
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/aq/aq-research-desktop.png" />
   </div>
-</div>
-<div>
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_2.jpg" />
-  </div>
-</div>
-<div>
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_3.jpg" />
-  </div>
-</div>
-<div>
-  <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/trial/BYD_4.jpg" />
+  <div class="post-content-column column-3">
+    <img class="post-content-screen iphone" src="{{ site.baseurl }}/img/work/aq/aq-work-mobile.png" />
   </div>
 </div>
