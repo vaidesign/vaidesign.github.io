@@ -8,7 +8,7 @@
 .barba-container {
   backface-visibility: hidden;
   transform: translateZ(0);
-  will-change: transform, opacity;
+  will-change: transform !important, opacity;
 }
 
 .container {
@@ -60,5 +60,5 @@
   z-index: -1;
   backface-visibility: hidden;
   transform: translateZ(0);
-  will-change: transform, opacity;
+  will-change: transform !important, opacity;
 }
