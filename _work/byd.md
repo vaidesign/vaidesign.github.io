@@ -1,8 +1,8 @@
 ---
 title:            "BYD"
-date:             2014-07-01 14:00:00
-year:             2014
-color:            "#D8F2FF"
+date:             2022-07-01 14:00:00
+year:             2022
+color:            "#E9F0F6"
 class:            byd
 cover:            "/img/work/byd/byd_cover.svg"
 gradient:         "/img/work/byd/byd_gradient.jpg"
