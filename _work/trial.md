@@ -3,7 +3,7 @@ title:            "AQx"
 date:             2014-07-01 14:00:00
 year:             2014
 color:            "#D8F2FF"
-class:            aq
+class:            trial
 cover:            "/img/work/aq/aq-cover.svg"
 hyperlink:        http://www.aqworks.com
 type:             "Web / Design & Front-End"
