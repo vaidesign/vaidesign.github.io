@@ -1,8 +1,5 @@
 #about{
   position: fixed;
-  background-color: #a7a7a7;
-  z-index: 200;
-  height: 0;
   width: 100%;
   top:0;
   bottom:0;
@@ -31,7 +28,6 @@
 }
 
 #about.is_active{
-  height:100%;
   -moz-transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
   -webkit-transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
   transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
