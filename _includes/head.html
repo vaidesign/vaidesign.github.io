@@ -15,8 +15,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | relative_url }}" />
-  <link href="css/style_pc.css" rel="stylesheet" media="all">
-  <link href="css/style_sp.css" rel="stylesheet" media="screen and (max-width: 599px)">
+  <link rel="stylesheet" media="all" href="{{ "/css/style_pc.css" | relative_url }}" >
+  <link rel="stylesheet" media="screen and (max-width: 599px)" href="{{ "/css/style_sp.css" | relative_url }}" >
 
   <div class="floatx">
     <div>
