@@ -61,14 +61,14 @@
                     </div>
                     <div class="row">
                         <div class="portfolio-gallery">
-
+                            {% for i in '123456789'|make_list %}
                             <div class="item" data-id="3dmotion">
                                 <div class="inner">
-                                    <img src="/img/playground/1.jpg" alt="portfolio">
+                                    <img src="/img/playground/3dartmotion/{{ i }}.jpg" alt="portfolio">
 
                                 </div>
                             </div>
-
+                            {% endfor %}
                             <div class="item" data-id="3dmotion">
                                 <div class="inner">
                                     <img src="/img/playground/2.jpg" alt="portfolio">
