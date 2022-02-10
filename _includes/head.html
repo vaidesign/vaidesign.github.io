@@ -15,11 +15,12 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | relative_url }}" />
-  <script src="https://kit.fontawesome.com/392b963637.js" crossorigin="anonymous"></script>
+  <link href="css/style_pc.css" rel="stylesheet" media="all">
+  <link href="css/style_sp.css" rel="stylesheet" media="screen and (max-width: 599px)">
 
   <div class="floatx">
     <div>
-      <a href="https://vaishalirajurkar.github.io/playground.html" class="arrow-link">About</a>
+      <a id="menu_about" class="link arrow-link" href="javascript:void(0);">About</a>
     </div>
     <div>
     <a target="_blank" href="https://vaishalirajurkar.github.io/playground.html" class="arrow-link">VaiVerse</a>

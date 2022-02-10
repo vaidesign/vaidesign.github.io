@@ -1,0 +1,55 @@
+
+#about.is_active .about-momo {
+    top: 50%;
+}
+
+.about-name01 h3 {
+    font-size: 15vw;
+    top: 37%;
+    left: 20%;
+}
+
+.about-name02 h3 {
+    font-size: 15vw;
+    top: 46%;
+    right: 6%;
+}
+
+.about-name03 h3 {
+    font-size: 15vw;
+    left: 5%;
+}
+
+.about-textarea {
+    margin-left: 10%;
+    width: 80%;
+    padding-bottom: 20vh;
+}
+
+.about-textarea h3 {
+    font-size: 4.3vw;
+}
+
+.about-text01 {
+    font-size: 3.2vw;
+}
+
+.about-text02 {
+    font-size: 3.2vw;
+}
+
+.contact {
+    font-size: 2.8vw;
+}
+
+.mail {
+    font-size: 4.3vw;
+}
+
+.sns {
+    font-size: 3.2vw;
+}
+
+.detail #about.is_active:after {
+    height: 180%;
+}
