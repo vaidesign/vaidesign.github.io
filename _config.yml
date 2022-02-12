@@ -24,3 +24,9 @@ collections:
 # Plugin
 plugins:
 - jekyll-autoprefixer
+
+# all projects
+allprojects:
+- byd
+- evbox
+- jde  
