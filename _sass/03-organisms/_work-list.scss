@@ -85,7 +85,8 @@ $work-item-height-xs: 400px;
       transform: translateY(-50%);
       @include breakpoint(md) {
         width: auto;
-        max-width: 300px;
+        max-width: 200px;
+        max-height: 200px;
       }
     }
     &-background {
