@@ -1,6 +1,6 @@
 .site-footer {
   padding: 50px 0;
-  border-top: 3px solid $color-text;
+  border-top: 1px solid $color-text;
   @include breakpoint(sm) {
     padding: 75px 0;
   }
