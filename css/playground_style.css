@@ -16,7 +16,7 @@
     text-align: right!important;
 }
 .portfolio{
-    background-color: #E3E8F2;
+    background-color: #fff;
     padding: 0px 7px;
 }
 .portfolio .section-title h1:before{
@@ -33,18 +33,17 @@
     padding: 0;
 }
 .portfolio .filter-buttons ul li{
-    color: #000000;
-    font-weight: 500;
-    font-size: 16px;
+    color: #595959;
+    font-weight: 300;
+    font-size: 18px;
     display: inline-block;
-    margin: 0px 8px;
-    text-transform: uppercase;
+    margin: 0px 12px;
     cursor: pointer;
     padding-bottom: 0px;
 }
 .portfolio .filter-buttons ul li.active{
-    color: #01c1fe;
-    border-bottom: 2px solid #01c1fe;
+    color: #ff6a6a;
+    border-bottom: 2px solid #ff6a6a;
 }
 .portfolio .portfolio-gallery{
     flex: 0 0 100%;
@@ -66,7 +65,6 @@
 .portfolio .portfolio-gallery .item img{
     width: 100%;
     display: block;
-    border-radius: 2%;
 }
 
 @media(max-width:767px){
