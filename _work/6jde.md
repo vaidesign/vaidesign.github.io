@@ -1,7 +1,9 @@
 ---
 title:            "JDE Barista Pro"
 date:             2014-07-01 14:00:00
-year:             2014
+release:          "2019"
+client:           "2018_VanBerlo | JDE"
+market:           "EU"
 color:            "#E2DBCC"
 class:            jde
 cover:            "/img/work/jde/jde_cover.svg"

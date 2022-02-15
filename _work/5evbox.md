@@ -1,7 +1,9 @@
 ---
 title:            "EVBox"
 date:             2014-07-01 14:00:00
-year:             2014
+release:          "2019"
+client:           "2018_VanBerlo | EVBOX"
+market:           "NA"
 color:            "#E9E9E9"
 class:            evbox
 cover:            "/img/work/evbox/evbox_cover.svg"

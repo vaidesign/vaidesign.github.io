@@ -1,7 +1,9 @@
 ---
 title:            "Heineken"
 date:             2014-07-01 14:00:00
-year:             2014
+release:          "1 week Sprint"
+client:           "2019_VanBerlo | Heineken"
+market:           "Netherlands"
 color:            "#C1CEB7"
 class:            heineken
 cover:            "/img/work/heineken/heineken_cover.svg"

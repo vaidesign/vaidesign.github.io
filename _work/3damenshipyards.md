@@ -1,7 +1,9 @@
 ---
 title:            "Damen Shipyards"
 date:             2014-07-01 14:00:00
-year:             2014
+release:          "2019"
+client:           "2018_VanBerlo | Damen"
+market:           "Netherlands"
 color:            "#E9F0F6"
 class:            damenshipyards
 cover:            "/img/work/damenshipyards/damenshipyards_cover.svg"

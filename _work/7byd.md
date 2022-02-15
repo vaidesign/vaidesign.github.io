@@ -1,7 +1,9 @@
 ---
 title:            "BYD Fleetlink"
 date:             2014-07-01 14:00:00
-year:             2014
+release:          "2020"
+client:           "2019_VanBerlo | BYD"
+market:           "UK & EU"
 color:            "#E3E8F2"
 class:            byd
 cover:            "/img/work/byd/byd_cover.svg"
