@@ -36,7 +36,7 @@ layout:           post
 </div>
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/byd/byd_5.jpg" />
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/byd/byd_5.gif" />
   </div>
 </div>
 <div class="post-content-grid">
@@ -46,7 +46,7 @@ layout:           post
 </div>
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/byd/byd_7.jpg" />
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/byd/byd_7.gif" />
   </div>
 </div>
 <div class="post-content-grid">
@@ -56,7 +56,7 @@ layout:           post
 </div>
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/byd/byd_9.jpg" />
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/byd/byd_9.gif" />
   </div>
 </div>
 <div class="post-content-grid">
