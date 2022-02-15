@@ -66,6 +66,6 @@ layout:           post
 </div>
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/heineken/heineken_11.jpg" />
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/heineken/heineken_11.gif" />
   </div>
 </div>
