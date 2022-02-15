@@ -8,7 +8,7 @@ cover:            "/img/work/heineken/heineken_cover.svg"
 gradient:         "/img/work/heineken/heineken_gradient.jpg"
 type:             "Web / Design & Front-End"
 description:      "Designing waste free festivals (sprint)"
-runin:            "AQ is simply put the smartest and friendliest group of international designers you'll ever find in Tokyo. Their portfolio covers the whole spectrum of design activities from User Research to Product Design.<br/><br/>During the 4 years I spent with that team, I was involved in redesigning and recoding some of the key pages of their website. I had a great time especially working with the amazingly talented <a class='hint' href='https://www.instagram.com/tatsushi_eto/'>Tatsushi Eto</a> who made beautiful illustration work for us."
+runin:            "Heineken is working towards becoming circular and waste free events are a part of that journey. Together with the team of Greenevents and Heineken, we tried to tackle the challenges around stimulating positive consumer behavior and circularity during festivals to reduce the waste, especially the plastic drinking cups. We also investigated creative ways to move away from the coin system to making the payment system more efficient and cleaner."
 layout:           post
 ---
 

@@ -1,14 +1,16 @@
 ---
 title:            "Terminal Manager"
 date:             2014-07-01 14:00:00
-year:             2014
+release:          "2017"
+client:           "2015_Honeywell"
+market:           "ME"
 color:            "#EDE8EF"
 class:            terminalmanager
 cover:            "/img/work/terminalmanager/terminalmanager_cover.svg"
 gradient:         "/img/work/terminalmanager/terminalmanager_gradient.jpg"
 type:             "Web / Design & Front-End"
 description:      "Future of terminal automation: Data dashboard"
-runin:            "AQ is simply put the smartest and friendliest group of international designers you'll ever find in Tokyo. Their portfolio covers the whole spectrum of design activities from User Research to Product Design.<br/><br/>During the 4 years I spent with that team, I was involved in redesigning and recoding some of the key pages of their website. I had a great time especially working with the amazingly talented <a class='hint' href='https://www.instagram.com/tatsushi_eto/'>Tatsushi Eto</a> who made beautiful illustration work for us."
+runin:            "Many oil and gas companies still rely on inefficient and manual processes to manage their terminal operations. Due to disparate systems, there is no coherent way to visualize, analyze and benchmark the terminal performance data. Honeywell’s real-time web-based solution named Terminal Manager was trying to address some of these concerns. The challenge was to smartly visualize the collected data in a user-friendly way to monitor, control as well as to ensure smooth terminal operations. With the help of this data overview, the control room operator could then easily identify the bottlenecks and inefficiencies to make informed business decisions."
 layout:           post
 ---
 

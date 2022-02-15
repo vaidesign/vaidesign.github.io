@@ -8,7 +8,7 @@ cover:            "/img/work/byd/byd_cover.svg"
 gradient:         "/img/work/byd/byd_gradient.jpg"
 type:             "Web / Design & Front-End"
 description:      "Empowering EV fleet operators to better monitor & optimize their fleet"
-runin:            "AQ is simply put the smartest and friendliest group of international designers you'll ever find in Tokyo. Their portfolio covers the whole spectrum of design activities from User Research to Product Design.<br/><br/>During the 4 years I spent with that team, I was involved in redesigning and recoding some of the key pages of their website. I had a great time especially working with the amazingly talented <a class='hint' href='https://www.instagram.com/tatsushi_eto/'>Tatsushi Eto</a> who made beautiful illustration work for us."
+runin:            "BYD Fleetlink is a tool for public transport operators to monitor as well as optimize their electric bus fleet operations. The tool support operators with monitoring of charging activities, alarms & energy management, remote diagnostics as well as daily depot scheduling. The challenge was to achieve an improved experience by addressing usability concerns and redesign the existing application for future scalability."
 layout:           post
 ---
 

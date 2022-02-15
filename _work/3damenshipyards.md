@@ -8,7 +8,7 @@ cover:            "/img/work/damenshipyards/damenshipyards_cover.svg"
 gradient:         "/img/work/damenshipyards/damenshipyards_gradient.jpg"
 type:             "Web / Design & Front-End"
 description:      "Designing for critical situations: Tugboat & dredger HMI"
-runin:            "AQ is simply put the smartest and friendliest group of international designers you'll ever find in Tokyo. Their portfolio covers the whole spectrum of design activities from User Research to Product Design.<br/><br/>During the 4 years I spent with that team, I was involved in redesigning and recoding some of the key pages of their website. I had a great time especially working with the amazingly talented <a class='hint' href='https://www.instagram.com/tatsushi_eto/'>Tatsushi Eto</a> who made beautiful illustration work for us."
+runin:            "Damen Shipyards group is one of the pioneers in shipbuilding and engineering. VanBerlo has been involved in the design and front-end implementation of their tugboats HMI. Additionally, they also started looking into the next-gen wheelhouses for Dredgers along with the improvement of their cabin controls and new HMI. This short case study showcases the glimpse of the design process and direction gone in integrating and modernizing the physical controls within the digital domain."
 layout:           post
 ---
 
