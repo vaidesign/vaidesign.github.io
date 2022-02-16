@@ -55,7 +55,7 @@ layout:           post
 <div class="post-content-grid">
   <div class="post-content-column column-1">
   <video class="post-content-screen desktop" autoplay loop>
-  <source src="{{ site.baseurl }}/img/work/jde/jde_6.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/img/work/jde/jde_8.mp4" type="video/mp4">
   </video>
   </div>
 </div>
