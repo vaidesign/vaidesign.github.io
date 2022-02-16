@@ -1,6 +1,11 @@
 .about-name01 h3,.about-name02 h3,.about-name03 h3{
     font-size: 9vw;
     margin-top:20px;
+    opacity: 1;
+    margin-top:0;
+    -moz-transition: all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1) 0.8s;
+    -webkit-transition: all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1) 0.8s;
+    transition: all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1) 0.8s;
 }
 .about-name01 h3{
     top: 25%;
