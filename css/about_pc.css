@@ -1,4 +1,5 @@
 .about-name01 h3,.about-name02 h3,.about-name03 h3{
+  position: absolute;
     font-size: 9vw;
     margin-top:20px;
     opacity: 1;
