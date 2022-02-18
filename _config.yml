@@ -3,7 +3,7 @@ title: Vaishali Rajurkar
 email: post.vaishalirajurkar@gmail.com
 description: "Vaishali Rajurkar | Product Designer"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://vaishalirajurkar.github.io" # the base hostname & protocol for your site
+url: "https://vaidesign.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
