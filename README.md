@@ -1,2 +1,2 @@
-# vaishalirajurkar.github.io
+# vaidesign.github.io
 
