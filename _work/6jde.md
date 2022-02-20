@@ -52,7 +52,13 @@ layout:           post
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/jde/jde_7.jpg" />
   </div>
 </div>
-
+<div class="post-content-grid">
+  <div class="post-content-column column-1">
+  <video class="post-content-screen desktop" autoplay loop>
+  <source src="{{ site.baseurl }}/img/work/jde/jde_8.mp4" type="video/mp4">
+  </video>
+  </div>
+</div>
 <div class="post-content-grid">
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/jde/jde_9.jpg" />
