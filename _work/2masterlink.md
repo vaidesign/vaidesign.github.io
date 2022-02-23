@@ -1,7 +1,9 @@
 ---
 title:            "MasterLink"
 date:             2014-07-01 14:00:00
-year:             2014
+release:          "2016"
+client:           "2015_Honeywell"
+market:           "NA"
 color:            "#DEEFF9"
 class:            masterlink
 cover:            "/img/work/masterlink/masterlink_cover.svg"
