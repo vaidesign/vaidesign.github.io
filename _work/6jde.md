@@ -55,7 +55,7 @@ layout:           post
 <div class="post-content-grid">
   <div class="post-content-column column-1">
   <video class="post-content-screen desktop" autoplay loop>
-  <source src="https://media.githubusercontent.com/media/vaidesign/vaidesign.github.io/main/img/work/jde/jde_8.mp4" type="video/mp4">
+  <source src="http://vaishalirajurkar.com/web2022/jde_8.mp4" type="video/mp4">
   </video>
   </div>
 </div>
